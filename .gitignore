@@ -1,0 +1,8 @@
+# File: .gitignore
+
+# Abaikan semua file Environment
+.env
+
+# Abaikan folder node_modules
+# Vercel akan meng-install versinya sendiri
+node_modules
